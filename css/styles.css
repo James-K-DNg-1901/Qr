@@ -1,0 +1,50 @@
+body {
+    font-size: 11px;
+    text-align: center;
+}
+
+h2 {
+  color: hsl(218, 44%, 22%);
+  font-family: 'Varela Round', sans-serif;
+  font-size: 15px;
+  margin: 20px 30px 20px 30px;
+}
+
+a {
+    color: hsl(228, 45%, 44%)
+}
+
+p {
+  color:hsl(220, 14%, 55%);
+  font-family: 'Varela Round', sans-serif;
+  font-size: 10.5px;
+  line-height: 1.5;
+  margin: auto 30px auto 30px;
+}
+
+img{
+  width: 220px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.white-board {
+  background-color: hsl(212, 45%, 89%);
+  Weight: 700;
+  width: 990px;
+  height: 590px;
+  position: fixed;
+  top:15%;
+  left: 23%;
+}
+
+.backgrond-container {
+  background-color: hsl(0, 0%, 100%);
+  width: 240px;
+  height: 390px;
+  border-radius: 20px;
+  position: relative;
+  top: 16%;
+  left: 39%;
+
+}
